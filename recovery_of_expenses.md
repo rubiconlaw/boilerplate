@@ -1,0 +1,3 @@
+# Recovery of Expenses
+
+In any adversarial proceedings between the parties arising out of this agreement, the Prevailing Party will be entitled to recover from the other party, in addition to any other relief awarded, all expenses that the Prevailing Party incurs in those proceedings, including legal fees and expenses. For purposes of this agreement, “Prevailing Party” means the party that recovers greater relief in those proceedings. If any such proceedings are voluntarily dismissed or are dismissed as part of settlement of that dispute, neither party will be the Prevailing Party in those proceedings.
